@@ -51,7 +51,7 @@ var updateClock = function()
 {
   var time = new Date().getHours();
   var messageText = "";
-  var image = "https://i.imgur.com/Sf1Qdwu.gif";
+  var image = "images/flanders.gif";
 
   var timeEventJS = document.getElementById("timeEvent");
   var tanImageJS = document.getElementById('tanImage');
